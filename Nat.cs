@@ -1,4 +1,5 @@
 using System;
+using Catamorphism;
 using static NatStatic;
 
 public class NatBrand {
